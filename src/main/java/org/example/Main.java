@@ -28,7 +28,6 @@ class Stack<T> {
         }
         return stack.getFirst();
     }
-
     // Checks if the stack is empty
     public boolean isEmpty() {
         return stack.isEmpty();
